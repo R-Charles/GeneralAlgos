@@ -15,4 +15,5 @@ function countBy(x, n) {
     //return our array, z with n multiples of x
     return z;
   }
-  
+
+//   https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/javascript
